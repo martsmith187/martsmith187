@@ -30,7 +30,7 @@
 </table>
 
 
-2023-09-14T18:29:54Z
+2023-09-14T18:40:08Z
 
 ## Strava summary ( &lt;%= from_date %> //  &lt;%= to_date %> )
 
