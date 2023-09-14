@@ -16,13 +16,13 @@ This is my README.md Template
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>14.3 °C</td><td>14.6 °C</td><td>14.5 °C</td><td>14.2 °C</td><td>14.1 °C</td><td>14.4 °C</td><td>13.9 °C</td><td>13.9 °C</td><td>13 °C</td><td>15.4 °C</td><td>16.1 °C</td><td>16.8 °C</td><td>17.4 °C</td><td>17.8 °C</td><td>17.9 °C</td><td>17.8 °C</td><td>17.4 °C</td><td>16.8 °C</td><td>15.9 °C</td><td>15.1 °C</td><td>14.4 °C</td><td>14.3 °C</td><td>14.4 °C</td><td>14.1 °C</td>
+        <td>14.3 °C</td><td>14.6 °C</td><td>14.5 °C</td><td>14.2 °C</td><td>14.1 °C</td><td>14.4 °C</td><td>13.9 °C</td><td>13.9 °C</td><td>14.7 °C</td><td>14 °C</td><td>16.1 °C</td><td>16.8 °C</td><td>17.4 °C</td><td>17.8 °C</td><td>17.9 °C</td><td>17.8 °C</td><td>17.4 °C</td><td>16.8 °C</td><td>15.9 °C</td><td>15.1 °C</td><td>14.4 °C</td><td>14.3 °C</td><td>14.4 °C</td><td>14.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>25.9 kph</td><td>26.3 kph</td><td>26.6 kph</td><td>24.8 kph</td><td>22 kph</td><td>18.7 kph</td><td>14.8 kph</td><td>11.2 kph</td><td>6.8 kph</td><td>13.7 kph</td><td>14 kph</td><td>13 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>9 kph</td><td>7.6 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>6.1 kph</td>
+        <td>25.9 kph</td><td>26.3 kph</td><td>26.6 kph</td><td>24.8 kph</td><td>22 kph</td><td>18.7 kph</td><td>14.8 kph</td><td>11.2 kph</td><td>13 kph</td><td>6.8 kph</td><td>14 kph</td><td>13 kph</td><td>12.6 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>10.8 kph</td><td>9 kph</td><td>7.6 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>6.1 kph</td>
     </tr>
 </table>
 
 
-2023-09-14T07:05:55Z
+2023-09-14T08:26:51Z
