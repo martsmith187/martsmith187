@@ -1,0 +1,5 @@
+This is my README.md Template
+
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+
+{{ formatTime .UpdatedAt }}
