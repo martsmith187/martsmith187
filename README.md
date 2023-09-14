@@ -30,16 +30,5 @@
 </table>
 
 
-2023-09-14T18:40:08Z
+2023-09-14T19:00:25Z
 
-## Strava summary ( &lt;%= from_date %> //  &lt;%= to_date %> )
-
-
-
-![Strava sync EX](https://github.com/gilacost/gilacost/workflows/Strava%20sync%20EX/badge.svg)
-![Strava sync ERL](https://github.com/gilacost/gilacost/workflows/Strava%20sync%20ERL/badge.svg)
-
-  * Runs: &lt;%= number_of_runs %>
-  * Elevation Gain: &lt;%= total_elevation_gain %> m
-  * Total time: &lt;%= total_time %>
-  * Total distance: &lt;%= total_distance %> km
