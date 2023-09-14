@@ -1,9 +1,9 @@
-# name: "Cronjob"
-# on:
-#   schedule:
-#     - cron: '5 * * * *'
-name: Manual
-on: workflow_dispatch
+name: "Cronjob"
+on:
+  schedule:
+    - cron: '5 * * * *'
+# name: Manual
+# on: workflow_dispatch
 
 jobs:
   update-weather:
