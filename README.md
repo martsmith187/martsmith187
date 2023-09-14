@@ -13,21 +13,33 @@
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly cloudy</td><td width="200px">Patchy rain possible</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain possible</td><td width="200px">Overcast</td>
+        <td width="200px">Partly cloudy</td><td width="200px">Moderate rain</td><td width="200px">Overcast</td><td width="200px">Overcast</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain possible</td><td width="200px">Overcast</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.7 -  18 °C</td><td>11.9 -  13.2 °C</td><td>12.6 -  13.1 °C</td><td>13.2 -  15.3 °C</td><td>11.5 -  17 °C</td><td>10.9 -  13.3 °C</td><td>10.7 -  12.8 °C</td>
+        <td>13.9 -  18.1 °C</td><td>11.9 -  13.2 °C</td><td>12.7 -  13.1 °C</td><td>13.4 -  15.3 °C</td><td>11.4 -  17 °C</td><td>10.8 -  13.4 °C</td><td>10.4 -  13 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>26.6 kph</td><td>24.8 kph</td><td>32.8 kph</td><td>25.9 kph</td><td>29.9 kph</td><td>33.1 kph</td><td>32 kph</td>
+        <td>26.6 kph</td><td>24.8 kph</td><td>32.4 kph</td><td>25.9 kph</td><td>29.5 kph</td><td>32.8 kph</td><td>31.7 kph</td>
     </tr>
 </table>
 
 
-2023-09-14T17:25:36Z
+2023-09-14T17:36:29Z
+
+## Strava summary ( &lt;%= from_date %> //  &lt;%= to_date %> )
+
+
+
+![Strava sync EX](https://github.com/gilacost/gilacost/workflows/Strava%20sync%20EX/badge.svg)
+![Strava sync ERL](https://github.com/gilacost/gilacost/workflows/Strava%20sync%20ERL/badge.svg)
+
+  * Runs: &lt;%= number_of_runs %>
+  * Elevation Gain: &lt;%= total_elevation_gain %> m
+  * Total time: &lt;%= total_time %>
+  * Total distance: &lt;%= total_distance %> km
