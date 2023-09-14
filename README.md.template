@@ -5,6 +5,6 @@
 - Email: [mart.datasci@gmail.com](mailto:mart.datasci6@gmail.com)
 - Data Engineer | SysAdmin | DevOps | Kubernetes
 
-{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
+{{template "daily-table" .Weathers}}
 
 {{ formatTime .UpdatedAt }}
