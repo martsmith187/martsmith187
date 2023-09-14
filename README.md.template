@@ -1,4 +1,9 @@
-This is my README.md Template
+# About me
+
+- Name: Mart Smith
+- My blog: TBC
+- Email: [mart.datasci6@gmail.com](mailto:mart.datasci6@gmail.com)
+- Data Engineer | SysAdmin | DevOps | Kubernetes
 
 {{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
 
