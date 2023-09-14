@@ -1,4 +1,9 @@
-This is my README.md Template
+# About me
+
+- Name: Mart Smith
+- My blog: TBC
+- Email: [mart.datasci6@gmail.com](mailto:mart.datasci6@gmail.com)
+- Data Engineer | SysAdmin | DevOps | Kubernetes
 
 
 <table>
@@ -25,4 +30,4 @@ This is my README.md Template
 </table>
 
 
-2023-09-14T08:47:54Z
+2023-09-14T08:58:13Z
