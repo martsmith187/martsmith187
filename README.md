@@ -13,22 +13,22 @@
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Sunny</td><td width="200px">Patchy rain possible</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td>
+        <td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Sunny</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.8 -  15.2 °C</td><td>10.5 -  13.8 °C</td><td>12 -  17.4 °C</td><td>13.4 -  18.1 °C</td><td>12.7 -  16.6 °C</td><td>10.8 -  15.8 °C</td><td>10.1 -  16 °C</td>
+        <td>9.8 -  15.3 °C</td><td>10.8 -  13.5 °C</td><td>12.2 -  17.4 °C</td><td>13.4 -  18 °C</td><td>11.1 -  15.4 °C</td><td>11.1 -  15.1 °C</td><td>9.7 -  15.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>21.2 kph</td><td>21.6 kph</td><td>45 kph</td><td>31.3 kph</td><td>34.6 kph</td><td>24.5 kph</td><td>25.2 kph</td>
+        <td>20.5 kph</td><td>19.4 kph</td><td>42.1 kph</td><td>34.6 kph</td><td>29.5 kph</td><td>21.6 kph</td><td>22 kph</td>
     </tr>
 </table>
 
 
-2023-09-22T11:42:10Z
+2023-09-22T11:52:25Z
 
