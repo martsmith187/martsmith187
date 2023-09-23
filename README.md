@@ -21,14 +21,14 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11.3 -  13.9 °C</td><td>11.9 -  17.3 °C</td><td>13.5 -  17.6 °C</td><td>12.3 -  16.7 °C</td><td>10.3 -  14.6 °C</td><td>11.9 -  13.6 °C</td><td>11.6 -  15.6 °C</td>
+        <td>11.3 -  13.9 °C</td><td>11.5 -  17.2 °C</td><td>13.7 -  17.5 °C</td><td>12.1 -  16.6 °C</td><td>10.3 -  14.5 °C</td><td>12.1 -  13.5 °C</td><td>11.9 -  15.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>20.9 kph</td><td>45.4 kph</td><td>29.9 kph</td><td>39.6 kph</td><td>32.8 kph</td><td>43.9 kph</td><td>34.2 kph</td>
+        <td>20.9 kph</td><td>46.1 kph</td><td>30.2 kph</td><td>40 kph</td><td>33.1 kph</td><td>43.9 kph</td><td>34.6 kph</td>
     </tr>
 </table>
 
 
-2023-09-23T05:07:06Z
+2023-09-23T05:23:11Z
 
