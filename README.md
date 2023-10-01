@@ -21,14 +21,14 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>12.7 -  18.6 °C</td><td>12.1 -  15.9 °C</td><td>10.9 -  15.2 °C</td>
+        <td>12.6 -  18.5 °C</td><td>11.8 -  15.5 °C</td><td>10.8 -  14.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>21.2 kph</td><td>15.5 kph</td><td>28.8 kph</td>
+        <td>24.8 kph</td><td>16.9 kph</td><td>29.5 kph</td>
     </tr>
 </table>
 
 
-2023-10-01T04:59:17Z
+2023-10-01T05:17:33Z
 
